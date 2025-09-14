@@ -1,0 +1,171 @@
+{
+  "generated_at": "2025-09-14T14:01:37.458811",
+  "evaluation_summary": {
+    "ablation_studies": 5,
+    "sanity_checks": 3,
+    "sanity_checks_passed": 1,
+    "stability_analysis_completed": true
+  },
+  "ablation_results": [
+    {
+      "name": "llm_only",
+      "description": "LLM preference score only (100%)",
+      "final_scores": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rank_correlation_spearman": 0.9999999999999999,
+      "rank_correlation_kendall": 0.9999999999999999,
+      "score_mse": 0.29411926017863194,
+      "score_mae": 0.5063593002571165,
+      "top_10_overlap": 5,
+      "top_5_overlap": 5
+    },
+    {
+      "name": "features_only",
+      "description": "Features only (no LLM): Technical 50%, Market 30%, Team 20%",
+      "final_scores": [
+        0.7067466502647632,
+        0.6718017110186105,
+        0.6820581698101691,
+        0.5888543949551848,
+        0.6804897738032444
+      ],
+      "rank_correlation_spearman": 0.49999999999999994,
+      "rank_correlation_kendall": 0.39999999999999997,
+      "score_mse": 0.05849228981371711,
+      "score_mae": 0.20476870458981794,
+      "top_10_overlap": 5,
+      "top_5_overlap": 5
+    },
+    {
+      "name": "no_technical",
+      "description": "Remove technical execution: LLM 75%, Market 15%, Team 10%",
+      "final_scores": [
+        0.1586848827987843,
+        0.15767405972328552,
+        0.16777307313825066,
+        0.13245150326457114,
+        0.14703289868870278
+      ],
+      "rank_correlation_spearman": 0.6,
+      "rank_correlation_kendall": 0.39999999999999997,
+      "score_mse": 0.16079388566958275,
+      "score_mae": 0.3536360167343976,
+      "top_10_overlap": 5,
+      "top_5_overlap": 5
+    },
+    {
+      "name": "no_market",
+      "description": "Remove market adoption: LLM 70%, Technical 20%, Team 10%",
+      "final_scores": [
+        0.20687945202221114,
+        0.19721803268152466,
+        0.2019187565263582,
+        0.17165718137745928,
+        0.21736820331837003
+      ],
+      "rank_correlation_spearman": -0.09999999999999999,
+      "rank_correlation_kendall": 0.0,
+      "score_mse": 0.13254727202716549,
+      "score_mae": 0.3073509750719318,
+      "top_10_overlap": 5,
+      "top_5_overlap": 5
+    },
+    {
+      "name": "equal_weights",
+      "description": "Equal weights: All components 25% each",
+      "final_scores": [
+        0.5017704954610156,
+        0.48654739203541963,
+        0.5056394229246609,
+        0.4177920546598417,
+        0.4905989966507861
+      ],
+      "rank_correlation_spearman": 0.3,
+      "rank_correlation_kendall": 0.19999999999999998,
+      "score_mse": 0.03563495449035363,
+      "score_mae": 0.1389352987614573,
+      "top_10_overlap": 5,
+      "top_5_overlap": 5
+    }
+  ],
+  "sanity_checks": [
+    {
+      "name": "activity_correlation",
+      "description": "Correlation with commit activity should be positive",
+      "correlation": -0.49999999999999994,
+      "p_value": 0.39100221895577053,
+      "passed": false,
+      "details": {
+        "threshold": 0.1
+      }
+    },
+    {
+      "name": "funding_bias",
+      "description": "Should not favor funded projects (funding correlation <= 0.2)",
+      "correlation": NaN,
+      "p_value": NaN,
+      "passed": false,
+      "details": {
+        "threshold": 0.2
+      }
+    },
+    {
+      "name": "fork_ratio_sanity",
+      "description": "Fork-to-star ratio correlation should be neutral",
+      "correlation": 0.3,
+      "p_value": 0.6238376647810728,
+      "passed": true,
+      "details": {
+        "threshold_min": -0.3,
+        "threshold_max": 0.3
+      }
+    }
+  ],
+  "stability_analysis": {
+    "bootstrap_iterations": 25,
+    "rank_stability_scores": [
+      0.563264,
+      0.683584,
+      0.821824,
+      0.934464,
+      1.0
+    ],
+    "stable_top_quartile": [
+      "ml-pipeline"
+    ],
+    "rank_variance": {
+      "test-ai-framework": 2.7296000000000005,
+      "web3-platform": 1.9775999999999998,
+      "database-optimizer": 1.1136,
+      "blockchain-toolkit": 0.40959999999999996,
+      "ml-pipeline": 0.0
+    },
+    "confidence_intervals": {
+      "test-ai-framework": [
+        1.0,
+        5.0
+      ],
+      "web3-platform": [
+        1.0,
+        5.0
+      ],
+      "database-optimizer": [
+        2.0,
+        5.0
+      ],
+      "blockchain-toolkit": [
+        3.0,
+        5.0
+      ],
+      "ml-pipeline": [
+        5.0,
+        5.0
+      ]
+    }
+  }
+}
