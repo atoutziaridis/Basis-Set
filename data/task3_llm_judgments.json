@@ -1,0 +1,108 @@
+{
+  "generated_at": "2025-09-14T12:54:56.239784",
+  "total_judgments": 10,
+  "model_used": "gpt-3.5-turbo",
+  "target_comparisons": 8,
+  "judgments": [
+    {
+      "pair_id": 0,
+      "repo1_name": "blockchain-toolkit",
+      "repo2_name": "database-optimizer",
+      "winner": 1,
+      "confidence": "medium",
+      "reasoning": "Repository 2 has a higher potential due to its focus on high-performance database query optimization, excellent documentation, and strong market potential in a niche domain.",
+      "processing_time": 1.0543420314788818,
+      "raw_response": "{\n  \"winner\": 2,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 2 has a higher potential due to its focus on high-performance database query optimization, excellent documentation, and strong market potential in a niche domain.\"\n}"
+    },
+    {
+      "pair_id": 1,
+      "repo1_name": "database-optimizer",
+      "repo2_name": "ml-pipeline",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its excellent market potential, strong community traction, and focus on high-performance database query optimization, which addresses a critical need in the ma",
+      "processing_time": 0.9152216911315918,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its excellent market potential, strong community traction, and focus on high-performance database query optimization, which addresses a critical need in the market.\"\n}"
+    },
+    {
+      "pair_id": 2,
+      "repo1_name": "blockchain-toolkit",
+      "repo2_name": "web3-platform",
+      "winner": 1,
+      "confidence": "medium",
+      "reasoning": "Repository 2 has higher potential due to its focus on decentralized application platform with smart contracts, excellent development velocity, and slightly larger community support.",
+      "processing_time": 0.8563380241394043,
+      "raw_response": "{\n  \"winner\": 2,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 2 has higher potential due to its focus on decentralized application platform with smart contracts, excellent development velocity, and slightly larger community support.\"\n}"
+    },
+    {
+      "pair_id": 3,
+      "repo1_name": "web3-platform",
+      "repo2_name": "ml-pipeline",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its stronger community traction, faster development velocity, and slightly larger market potential, indicating a stronger foundation for becoming a category-de",
+      "processing_time": 0.8995819091796875,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its stronger community traction, faster development velocity, and slightly larger market potential, indicating a stronger foundation for becoming a category-defining company in the AI/ML decentralized application platform space.\"\n}"
+    },
+    {
+      "pair_id": 4,
+      "repo1_name": "blockchain-toolkit",
+      "repo2_name": "ml-pipeline",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its next-generation blockchain development toolkit addressing a potentially transformative market with good technical execution, strong community traction, and",
+      "processing_time": 0.8768959045410156,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its next-generation blockchain development toolkit addressing a potentially transformative market with good technical execution, strong community traction, and higher growth rate.\"\n}"
+    },
+    {
+      "pair_id": 5,
+      "repo1_name": "test-ai-framework",
+      "repo2_name": "blockchain-toolkit",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its excellent market potential, strong community traction, and focus on a revolutionary AI framework for distributed training, which presents a greater opportu",
+      "processing_time": 0.8652570247650146,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its excellent market potential, strong community traction, and focus on a revolutionary AI framework for distributed training, which presents a greater opportunity for category-defining impact.\"\n}"
+    },
+    {
+      "pair_id": 6,
+      "repo1_name": "database-optimizer",
+      "repo2_name": "web3-platform",
+      "winner": 1,
+      "confidence": "medium",
+      "reasoning": "Repository 2 has higher potential due to its focus on decentralized application platform with smart contracts, excellent development velocity, and a strong team with lower bus factor.",
+      "processing_time": 0.8344967365264893,
+      "raw_response": "{\n  \"winner\": 2,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 2 has higher potential due to its focus on decentralized application platform with smart contracts, excellent development velocity, and a strong team with lower bus factor.\"\n}"
+    },
+    {
+      "pair_id": 7,
+      "repo1_name": "test-ai-framework",
+      "repo2_name": "ml-pipeline",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its excellent market potential, stronger growth trajectory, and larger community support for its revolutionary AI framework for distributed training.",
+      "processing_time": 0.8678627014160156,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its excellent market potential, stronger growth trajectory, and larger community support for its revolutionary AI framework for distributed training.\"\n}"
+    },
+    {
+      "pair_id": 8,
+      "repo1_name": "test-ai-framework",
+      "repo2_name": "web3-platform",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its excellent market potential, strong community growth, and focus on a revolutionary AI framework for distributed training.",
+      "processing_time": 0.8879399299621582,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its excellent market potential, strong community growth, and focus on a revolutionary AI framework for distributed training.\"\n}"
+    },
+    {
+      "pair_id": 9,
+      "repo1_name": "test-ai-framework",
+      "repo2_name": "database-optimizer",
+      "winner": 0,
+      "confidence": "medium",
+      "reasoning": "Repository 1 has higher potential due to its larger community, stronger growth rate, and broader market scope with a revolutionary AI framework for distributed training.",
+      "processing_time": 0.8070492744445801,
+      "raw_response": "{\n  \"winner\": 1,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Repository 1 has higher potential due to its larger community, stronger growth rate, and broader market scope with a revolutionary AI framework for distributed training.\"\n}"
+    }
+  ]
+}
