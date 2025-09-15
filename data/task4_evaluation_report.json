@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-14T14:01:37.458811",
+  "generated_at": "2025-09-14T17:24:40.307629",
   "evaluation_summary": {
     "ablation_studies": 5,
     "sanity_checks": 3,
@@ -129,20 +129,20 @@
   "stability_analysis": {
     "bootstrap_iterations": 25,
     "rank_stability_scores": [
-      0.563264,
-      0.683584,
-      0.821824,
-      0.934464,
+      0.494656,
+      0.6416000000000001,
+      0.704576,
+      0.921664,
       1.0
     ],
     "stable_top_quartile": [
       "ml-pipeline"
     ],
     "rank_variance": {
-      "test-ai-framework": 2.7296000000000005,
-      "web3-platform": 1.9775999999999998,
-      "database-optimizer": 1.1136,
-      "blockchain-toolkit": 0.40959999999999996,
+      "test-ai-framework": 3.1584000000000003,
+      "web3-platform": 2.2399999999999998,
+      "database-optimizer": 1.8464,
+      "blockchain-toolkit": 0.4895999999999999,
       "ml-pipeline": 0.0
     },
     "confidence_intervals": {
@@ -155,7 +155,7 @@
         5.0
       ],
       "database-optimizer": [
-        2.0,
+        1.0,
         5.0
       ],
       "blockchain-toolkit": [

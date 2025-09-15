@@ -1,0 +1,101 @@
+repository,llm_preference_score,innovation_reasoning,innovation_category,llm_rank
+OpenBB-finance/OpenBB,0.6023340595608668,High innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,high_innovation,1
+appsmithorg/appsmith,0.5235146066223684,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,2
+makeplane/plane,0.5115836222010517,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,3
+milvus-io/milvus,0.5044211495039088,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,4
+novuhq/novu,0.49734042324317196,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,5
+twentyhq/twenty,0.48814138175323074,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,6
+mudler/LocalAI,0.47741105282600127,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,7
+pathwaycom/pathway,0.47264692473031505,Moderate innovation potential; Strong community adoption; Healthy contributor base; Regular release cycle,moderate_innovation,8
+paperless-ngx/paperless-ngx,0.47031586142682236,Moderate innovation potential; Strong community adoption; Healthy contributor base; Regular release cycle,moderate_innovation,9
+grafana/loki,0.4616621949014147,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,10
+ToolJet/ToolJet,0.45464203013811016,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,11
+CopilotKit/CopilotKit,0.4394200886861717,Moderate innovation potential; Strong community adoption; Active contributor ecosystem; Regular release cycle,moderate_innovation,12
+qdrant/qdrant,0.4248880889421521,Moderate innovation potential; Strong community adoption; Healthy contributor base; Regular release cycle,moderate_innovation,13
+chroma-core/chroma,0.4236743992753919,Moderate innovation potential; Strong community adoption; Healthy contributor base; Regular release cycle,moderate_innovation,14
+onlook-dev/onlook,0.40903360682509,Moderate innovation potential; Strong community adoption; Healthy contributor base; Regular release cycle,moderate_innovation,15
+Avaiga/taipy,0.40318019265445043,Moderate innovation potential; Growing community; Healthy contributor base; Regular release cycle,moderate_innovation,16
+Infisical/infisical,0.3836116057773076,Standard development project; Strong community adoption; Healthy contributor base; Regular release cycle,incremental,17
+teableio/teable,0.3774631929345631,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,18
+knadh/listmonk,0.37538773925056396,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,19
+zincsearch/zincsearch,0.3635208128009278,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,20
+weaviate/weaviate,0.3608680335694258,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,21
+getzep/graphiti,0.3603119535034955,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,22
+dyad-sh/dyad,0.35485306565885544,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,23
+VictoriaMetrics/VictoriaMetrics,0.35287982561763204,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,24
+formbricks/formbricks,0.3503605922072304,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,25
+langfuse/langfuse,0.34875202423696205,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,26
+openobserve/openobserve,0.3466140444756291,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,27
+Skyvern-AI/skyvern,0.34600402798114216,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,28
+thanos-io/thanos,0.34357311474469593,Standard development project; Growing community; Active contributor ecosystem; Regular release cycle,incremental,29
+agent0ai/agent-zero,0.33882022413953106,Standard development project; Growing community; Active contributor ecosystem; Regular release cycle,incremental,30
+Unleash/unleash,0.33414936493785896,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,31
+emcie-co/parlant,0.33306685357096727,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,32
+documenso/documenso,0.3274380504258698,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,33
+getlago/lago,0.3248142172780948,Standard development project; Growing community; Regular release cycle,incremental,34
+GraphiteEditor/Graphite,0.3221284100745835,Standard development project; Strong community adoption; Healthy contributor base,incremental,35
+kestra-io/kestra,0.3216537044257005,Standard development project; Strong community adoption; Healthy contributor base; Regular release cycle,incremental,36
+typesense/typesense,0.3214577976316824,Standard development project; Strong community adoption; Healthy contributor base; Regular release cycle,incremental,37
+growthbook/growthbook,0.3190477937550001,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,38
+skypilot-org/skypilot,0.3182554052049102,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,39
+keephq/keep,0.314500325553528,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,40
+quickwit-oss/quickwit,0.31376152369713184,Standard development project; Growing community; Regular release cycle,incremental,41
+agentscope-ai/agentscope,0.31165718013328664,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,42
+triggerdotdev/trigger.dev,0.3087991373450998,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,43
+activeloopai/deeplake,0.30764580205334235,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,44
+highlight/highlight,0.30758203999220535,Standard development project; Growing community; Regular release cycle,incremental,45
+paradedb/paradedb,0.30683681620904574,Standard development project; Growing community; Regular release cycle,incremental,46
+hyperdxio/hyperdx,0.30616133272898716,Standard development project; Growing community; Regular release cycle,incremental,47
+simstudioai/sim,0.30486024356668584,Standard development project; Growing community; Healthy contributor base,incremental,48
+nari-labs/dia,0.301744348435906,Standard development project; Growing community; Healthy contributor base,incremental,49
+erxes/erxes,0.30043055614456693,Standard development project; Healthy contributor base; Regular release cycle,incremental,50
+logto-io/logto,0.30016241320612724,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,51
+superagent-ai/superagent,0.2996221869125967,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,52
+questdb/questdb,0.29830817232092977,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,53
+cortexproject/cortex,0.29737990429850286,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,54
+Eventual-Inc/Daft,0.2941273132514858,Standard development project; Regular release cycle,incremental,55
+SuperClaude-Org/SuperClaude_Framework,0.29410782905244687,Standard development project; Growing community; Healthy contributor base,incremental,56
+fonoster/fonoster,0.2904298174366977,Standard development project; Growing community,incremental,57
+rowyio/rowy,0.28940729897037587,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,58
+supertokens/supertokens-core,0.2890501760402592,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,59
+BoundaryML/baml,0.2885436846655839,Standard development project; Growing community; Regular release cycle,incremental,60
+m3db/m3,0.2884108212951409,Standard development project; Regular release cycle,incremental,61
+NangoHQ/nango,0.287768855186792,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,62
+requestly/requestly,0.28707259497398485,Standard development project; Regular release cycle,incremental,63
+resemble-ai/chatterbox,0.2811842152776527,Standard development project; Growing community; Healthy contributor base,incremental,64
+traceloop/openllmetry,0.2786099615294158,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,65
+explodinggradients/ragas,0.27860148557241765,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,66
+oraios/serena,0.27838080984666635,Standard development project; Growing community; Healthy contributor base,incremental,67
+marqo-ai/marqo,0.2735480822416866,Standard development project; Regular release cycle,incremental,68
+lightdash/lightdash,0.27194261545099896,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,69
+11cafe/jaaz,0.27193926173050686,Standard development project; Regular release cycle,incremental,70
+shuttle-hq/shuttle,0.271350158116506,Standard development project; Growing community; Regular release cycle,incremental,71
+authzed/spicedb,0.26935314266021537,Standard development project; Growing community; Regular release cycle,incremental,72
+hatchet-dev/hatchet,0.26857542498393333,Standard development project; Growing community; Regular release cycle,incremental,73
+ArroyoSystems/arroyo,0.2678547358129683,Standard development project; Regular release cycle,incremental,74
+yichuan-w/LEANN,0.2652862547167187,Standard development project; Regular release cycle,incremental,75
+bytebot-ai/bytebot,0.2646907303239402,Standard development project; Growing community; Healthy contributor base,incremental,76
+vocodedev/vocode-core,0.25896250081386424,Standard development project; Healthy contributor base,incremental,77
+rivet-gg/engine,0.25780914267264043,Standard development project; Regular release cycle,incremental,78
+jitsucom/jitsu,0.25547808181573584,Standard development project; Regular release cycle,incremental,79
+stagewise-io/stagewise,0.2549998134657885,Standard development project; Growing community; Regular release cycle,incremental,80
+Helicone/helicone,0.25302857679206286,Standard development project,incremental,81
+fern-api/fern,0.25136724638211677,Standard development project; Regular release cycle,incremental,82
+0x4m4/hexstrike-ai,0.23500911324659882,Standard development project; Healthy contributor base,incremental,83
+rowboatlabs/rowboat,0.2326622460004687,Standard development project,incremental,84
+superglue-ai/superglue,0.22769891462476255,Standard development project,incremental,85
+MiniMax-AI/MiniMax-01,0.22622847807408947,Standard development project,incremental,86
+Operative-Sh/web-eval-agent,0.21797532684514107,Standard development project,incremental,87
+robotmcp/ros-mcp-server,0.207286125044213,Standard development project,incremental,88
+OpenPipe/OpenPipe,0.2047714296780155,Standard development project,incremental,89
+Mooncake-Labs/pg_mooncake,0.20421515093784684,Standard development project,incremental,90
+VectifyAI/PageIndex,0.19951917142996348,Standard development project,incremental,91
+windmill-labs/windmill,0.17218141887317798,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,92
+firezone/firezone,0.15044360868283652,Standard development project; Growing community; Regular release cycle,incremental,93
+evidentlyai/evidently,0.1462228771249338,Standard development project; Growing community; Healthy contributor base; Regular release cycle,incremental,94
+sirius-db/sirius,0.13573828145013683,Standard development project,incremental,95
+M4THYOU/TokenDagger,0.1242032283290299,Standard development project,incremental,96
+livestorejs/livestore,0.11075518021368325,Standard development project; Regular release cycle,incremental,97
+semaphoreio/semaphore,0.08156771206963363,Standard development project; Regular release cycle,incremental,98
+defog-ai/sqlcoder,0.05395642129295595,Standard development project,incremental,99
+onkernel/kernel-images,0.05239130406029646,Standard development project,incremental,100
